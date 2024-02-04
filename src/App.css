@@ -1,0 +1,19 @@
+.app {
+	margin: 0 auto;
+	padding: 4em;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	width: 100%;
+}
+
+.hero-text {
+	margin: 2em 0;
+}
+
+.map-container {
+	height: 100%;
+	width: 100%;
+	padding: 2em 0;
+	border-radius: 8em;
+}
